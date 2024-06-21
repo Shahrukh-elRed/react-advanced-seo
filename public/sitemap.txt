@@ -1,3 +1,3 @@
-https://react-advanced-seo.vercel.app/
+https://react-advanced-seo.vercel.app
 https://react-advanced-seo.vercel.app/login
 https://react-advanced-seo.vercel.app/shop
