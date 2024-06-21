@@ -6,7 +6,10 @@ const Login = () => {
       <Helmet>
         <title>Login</title>
         <meta name="description" content="login to view your account." />
-        <link rel="canonical" href="http://localhost:3000/login" />
+        <link
+          rel="canonical"
+          href="https://react-advanced-seo.vercel.app/login"
+        />
       </Helmet>
       <div>Login</div>
     </>

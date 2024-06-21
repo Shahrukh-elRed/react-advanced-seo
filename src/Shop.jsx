@@ -6,7 +6,10 @@ const Shop = () => {
       <Helmet>
         <title>Shop</title>
         <meta name="description" content="shop our latest products now." />
-        <link rel="canonical" href="http://localhost:3000/shop" />
+        <link
+          rel="canonical"
+          href="https://react-advanced-seo.vercel.app/shop"
+        />
         {/* <meta name="robots" content="noindex" /> */}
       </Helmet>
 
