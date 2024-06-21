@@ -7,6 +7,7 @@ const Shop = () => {
         <title>Shop</title>
         <meta name="description" content="shop our latest products now." />
         <link rel="canonical" href="http://localhost:3000/shop" />
+        {/* <meta name="robots" content="noindex" /> */}
       </Helmet>
 
       <div>Shop</div>
