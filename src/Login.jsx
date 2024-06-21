@@ -8,7 +8,7 @@ const Login = () => {
         <meta name="description" content="login to view your account." />
         <link rel="canonical" href="http://localhost:3000/login" />
       </Helmet>
-      <div>Login</div>;
+      <div>Login</div>
     </>
   );
 };
