@@ -11,6 +11,7 @@ const Shop = () => {
           href="https://react-advanced-seo.vercel.app/shop"
         />
         {/* <meta name="robots" content="noindex" /> */}
+        
       </Helmet>
 
       <div>Shop</div>
